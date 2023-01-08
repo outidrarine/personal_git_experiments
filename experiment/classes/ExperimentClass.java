@@ -10,7 +10,7 @@ public class ExperimentClass {
         this.experimentString = experimentString;
     }
 
-    private String experimentString = "test String 3";
+    private String experimentString = "test String";
 
 
 
